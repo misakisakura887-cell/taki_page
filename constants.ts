@@ -24,26 +24,26 @@ export const TRADE_DATA: TradeMetric[] = [
 export const MART_PRODUCTS: ProductItem[] = [
   { 
     id: 1, 
-    title: 'Strategic cooperation', 
-    category: '战略合作', 
+    title: 'IP DERIVATIVE LICENSING', 
+    category: 'IP授权衍生', 
     imageUrl: 'https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2670&auto=format&fit=crop' 
   },
   { 
     id: 2, 
-    title: 'OEM customization', 
-    category: 'OEM定制', 
+    title: 'FAN SOCIAL INTERACTION', 
+    category: '粉丝社交', 
     imageUrl: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2670&auto=format&fit=crop' 
   },
   { 
     id: 3, 
-    title: 'Authorized co-branding', 
-    category: '授权联名', 
+    title: 'BRAND CROSSOVER COLLABORATION', 
+    category: '品牌跨界', 
     imageUrl: 'https://images.unsplash.com/photo-1559564484-e48b3e040ff4?q=80&w=2670&auto=format&fit=crop' 
   },
   { 
     id: 4, 
-    title: 'Channel distribution', 
-    category: '渠道分销', 
+    title: 'OMNICHANNEL MARKETING', 
+    category: '全域营销', 
     imageUrl: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2670&auto=format&fit=crop' 
   },
 ];

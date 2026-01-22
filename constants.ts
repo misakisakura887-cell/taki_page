@@ -26,7 +26,7 @@ export const MART_PRODUCTS: ProductItem[] = [
     id: 1, 
     title: 'IP DERIVATIVE LICENSING', 
     category: 'IP授权衍生', 
-    imageUrl: 'https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122171724_23963_12.png' 
+    imageUrl: 'https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122173231_23971_12.png' 
   },
   { 
     id: 2, 

@@ -53,7 +53,7 @@ const GALLERY = [
   "https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122155734_2754_7.jpg",
   "https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122145752_2658_7.jpg",
   "https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122173937_23973_12.jpg",
-  "https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122153533_23957_12.jpg",
+  "https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122174148_23976_12.jpg",
   "https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122153502_2721_7.jpg",
   "https://6971cc220fbe657fd5e61849.imgix.net/Weixin Image_20260122153513_2722_7.jpg",
 ];

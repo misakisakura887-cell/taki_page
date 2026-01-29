@@ -93,7 +93,7 @@ export const TradeSection: React.FC = () => {
            <div className="group">
               <div className="text-[10px] font-black tracking-[0.3em] text-taki-blue uppercase mb-4 group-hover:translate-x-1 transition-transform">Annual Growth</div>
               <div className="flex items-center gap-3 whitespace-nowrap">
-                <span className="text-taki-blue text-5xl font-black leading-none">100%</span>
+                <span className="text-taki-blue text-5xl font-black leading-none">32%</span>
                 <span className="text-xs font-black tracking-widest opacity-80 uppercase pt-2">每年增长</span>
               </div>
            </div>
@@ -103,10 +103,10 @@ export const TradeSection: React.FC = () => {
               <div className="text-[10px] font-black tracking-[0.3em] text-taki-orange uppercase mb-4 group-hover:translate-x-1 transition-transform">Revenue Milestone</div>
               <div className="flex flex-col gap-2">
                 <div className="flex items-center gap-3 whitespace-nowrap">
-                   <span className="text-taki-orange text-5xl font-black leading-none">7.5亿</span>
+                   <span className="text-taki-orange text-5xl font-black leading-none">30亿</span>
                    <span className="text-xs font-black tracking-widest opacity-80 uppercase pt-1">突破营业额</span>
                 </div>
-                <span className="text-[9px] font-black text-white/30 tracking-[0.2em] uppercase">至2022年累计</span>
+                <span className="text-[9px] font-black text-white/30 tracking-[0.2em] uppercase">至2025年累计</span>
               </div>
            </div>
 
@@ -118,7 +118,7 @@ export const TradeSection: React.FC = () => {
                    <span className="text-taki-blue text-[2.75rem] font-black leading-none">5000万</span>
                    <span className="text-xs font-black tracking-widest opacity-80 uppercase pt-1">单店业绩</span>
                 </div>
-                <span className="text-[9px] font-black text-white/30 tracking-[0.2em] uppercase">2024年销售额过</span>
+                <span className="text-[9px] font-black text-white/30 tracking-[0.2em] uppercase">2024年销售额突破</span>
               </div>
            </div>
         </div>
